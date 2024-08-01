@@ -57,6 +57,9 @@ body {
 }
 
 /* styling weather deatails*/
+.weather{
+    display: none;      /*hides details initially*/
+}
 .weather-icon {
     width: 170px;
     margin-top: 30px;
