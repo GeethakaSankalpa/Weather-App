@@ -26,5 +26,9 @@
 3. ### Click the search button
 4. ### The app will display the current weather conditions for the searched city
 
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
 #### If you have any suggestions, ideas, or feedback, please don't hesitate to reach out ❤️
 A huge thank you for taking the time to explore This weather app 😊.
