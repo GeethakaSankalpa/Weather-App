@@ -1,5 +1,5 @@
-# Weather-App : Your Go-To Weather Companion
-## Welcome to a simple weather app that allows users to search for the current weather conditions in a specific city.
+# Climex : Your Go-To Weather Companion
+## Welcome to Climex, a simple weather app that allows users to search for the current weather conditions in a specific city.
 
 
 ## Features
